@@ -6,6 +6,6 @@ This special, pilot section of COMP 426 introduces students to the fundamentals 
 
 Rather than Canvas, this course will use our course website to store assignments and important information, including the syllabus! We will use GradeScope for assignment submissions. Canvas will be reserved for sending announcements and finalizing grades at the end of the semester. Please view the links below:
 
-Course Website: https://comp426-25s.github.io/
+**Course Website**: https://comp426-25s.github.io/
 
-Syllabus: https://comp426-25s.github.io/syllabus
+**Syllabus**: https://comp426-25s.github.io/syllabus
